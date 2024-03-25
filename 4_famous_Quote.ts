@@ -1,1 +1,0 @@
-console.log("AbdulRazzaq once said, “Absolutely Not”" );
